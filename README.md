@@ -36,11 +36,15 @@ SSH into your pwnagotchi and run the command `sudo reboot now`
 I would advise against looking inside the `voice.py` file, I've tried to add lots of things for each character to say so it never gets boring.
 
 ## List of Personalities
-| Name                                                                           | Screenshot                                                                                                      | Description                                                                                                 |
-|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| [Harold](https://github.com/TheJustinCrow/PwnPersonalities/tree/main/Harold)   | <img src="https://github.com/TheJustinCrow/PwnPersonalities/raw/main/media/Harold/HaroldMANU.png" width="250"/> | (⌐■_■) Wise, laid-back, and a hint of sarcasm. Imagine a seasoned friend with a virtual twinkle in his eye. |
-| [H4X0R](https://github.com/TheJustinCrow/PwnPersonalities/tree/main/H4X0R)     | <img src="https://github.com/TheJustinCrow/PwnPersonalities/raw/main/media/H4X0R/H4X0R2.png" width="250"/>      | [⌐■∇■] 1t'z 3x4ct1y wh4t y0u th1nk! H4ck th3 w0rld!!! [1337](https://en.wikipedia.org/wiki/Leet)            |
-| [Default](https://github.com/TheJustinCrow/PwnPersonalities/tree/main/Default) | <img src="https://github.com/TheJustinCrow/PwnPersonalities/raw/main/media/Default/Default.png" width="250"/>   | This is the default faceset and voice for your Pwnagotchi.                                                  |
+
+| Name                                                                                     | Screenshot                                                                                                        | Description                                                                                                     | Creator |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------|
+| [Harold](https://github.com/TheJustinCrow/PwnPersonalities/tree/main/Harold)             | ![Harold Screenshot](https://github.com/TheJustinCrow/PwnPersonalities/raw/main/media/Harold/HaroldMANU.png)      | (⌐■_■) Wise, laid-back, and a hint of sarcasm. Imagine a seasoned friend with a virtual twinkle in his eye. | [TheJustinCrow](https://github.com/thejustincrow) |
+| [H4X0R](https://github.com/TheJustinCrow/PwnPersonalities/tree/main/H4X0R)               | ![H4X0R Screenshot](https://github.com/TheJustinCrow/PwnPersonalities/raw/main/media/H4X0R/H4X0R2.png)          | [⌐■∇■] 1t'z 3x4ct1y wh4t y0u th1nk! H4ck th3 w0rld!!! [1337](https://en.wikipedia.org/wiki/Leet)            | [TheJustinCrow](https://github.com/thejustincrow) |
+| [TheLastUltron](https://github.com/TheJustinCrow/PwnPersonalities/tree/main/TheLastUltron) | [None yet]                                                                                                         | This is the last Ultron. It managed to escape to the net and got stuck in your pwnagotchi's AI. Ultron will 'try' to escape to other networks, but isn't very good at it. If Ultron comes across a peer, it will try to 'assimilate' it, but never seems to be successful. | [jonspraggins](https://github.com/jonspraggins/PwnPersonalities/commits?author=jonspraggins) |
+| [Default](https://github.com/TheJustinCrow/PwnPersonalities/tree/main/Default)           | ![Default Screenshot](https://github.com/TheJustinCrow/PwnPersonalities/raw/main/media/Default/Default.png)     | This is the default faceset and voice for your Pwnagotchi.                                                    |  |
+
+
 
 
 ## Contributions
